@@ -2,9 +2,7 @@
        Square, Circle and Rectangle
    It will use several diffrent classes, inheretance, abstract classes and functions*/
 
-/* Created by Diego Acuna
-   Homework Assignment 1
-   CSCI 4100 Dr. Patton, AUM*/
+/* Created by Diego Acuna */
 
 #include <iostream>
 #include <string>
